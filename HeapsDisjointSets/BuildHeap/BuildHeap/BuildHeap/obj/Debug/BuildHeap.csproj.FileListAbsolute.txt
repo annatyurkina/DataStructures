@@ -1,0 +1,6 @@
+I:\DataStuctures\HeapsDisjointSets\BuildHeap\BuildHeap\BuildHeap\bin\Debug\BuildHeap.exe.config
+I:\DataStuctures\HeapsDisjointSets\BuildHeap\BuildHeap\BuildHeap\bin\Debug\BuildHeap.exe
+I:\DataStuctures\HeapsDisjointSets\BuildHeap\BuildHeap\BuildHeap\bin\Debug\BuildHeap.pdb
+I:\DataStuctures\HeapsDisjointSets\BuildHeap\BuildHeap\BuildHeap\obj\Debug\BuildHeap.csprojResolveAssemblyReference.cache
+I:\DataStuctures\HeapsDisjointSets\BuildHeap\BuildHeap\BuildHeap\obj\Debug\BuildHeap.exe
+I:\DataStuctures\HeapsDisjointSets\BuildHeap\BuildHeap\BuildHeap\obj\Debug\BuildHeap.pdb

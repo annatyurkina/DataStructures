@@ -1,0 +1,6 @@
+I:\DataStuctures\BinarySearchTrees\SplayTree\SplayTree\SplayTree\bin\Debug\SplayTree.exe.config
+I:\DataStuctures\BinarySearchTrees\SplayTree\SplayTree\SplayTree\bin\Debug\SplayTree.exe
+I:\DataStuctures\BinarySearchTrees\SplayTree\SplayTree\SplayTree\bin\Debug\SplayTree.pdb
+I:\DataStuctures\BinarySearchTrees\SplayTree\SplayTree\SplayTree\obj\Debug\SplayTree.csprojResolveAssemblyReference.cache
+I:\DataStuctures\BinarySearchTrees\SplayTree\SplayTree\SplayTree\obj\Debug\SplayTree.exe
+I:\DataStuctures\BinarySearchTrees\SplayTree\SplayTree\SplayTree\obj\Debug\SplayTree.pdb

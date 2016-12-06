@@ -1,0 +1,6 @@
+I:\DataStuctures\BinarySearchTrees\TreeTraversal\TreeTraversal\TreeTraversal\bin\Debug\TreeTraversal.exe.config
+I:\DataStuctures\BinarySearchTrees\TreeTraversal\TreeTraversal\TreeTraversal\bin\Debug\TreeTraversal.exe
+I:\DataStuctures\BinarySearchTrees\TreeTraversal\TreeTraversal\TreeTraversal\bin\Debug\TreeTraversal.pdb
+I:\DataStuctures\BinarySearchTrees\TreeTraversal\TreeTraversal\TreeTraversal\obj\Debug\TreeTraversal.csprojResolveAssemblyReference.cache
+I:\DataStuctures\BinarySearchTrees\TreeTraversal\TreeTraversal\TreeTraversal\obj\Debug\TreeTraversal.exe
+I:\DataStuctures\BinarySearchTrees\TreeTraversal\TreeTraversal\TreeTraversal\obj\Debug\TreeTraversal.pdb

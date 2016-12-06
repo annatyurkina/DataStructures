@@ -1,0 +1,6 @@
+I:\DataStuctures\BasicDataStructures\NetworkPackets\NetworkPackets\NetworkPackets\bin\Debug\NetworkPackets.exe.config
+I:\DataStuctures\BasicDataStructures\NetworkPackets\NetworkPackets\NetworkPackets\obj\Debug\NetworkPackets.csprojResolveAssemblyReference.cache
+I:\DataStuctures\BasicDataStructures\NetworkPackets\NetworkPackets\NetworkPackets\bin\Debug\NetworkPackets.exe
+I:\DataStuctures\BasicDataStructures\NetworkPackets\NetworkPackets\NetworkPackets\bin\Debug\NetworkPackets.pdb
+I:\DataStuctures\BasicDataStructures\NetworkPackets\NetworkPackets\NetworkPackets\obj\Debug\NetworkPackets.exe
+I:\DataStuctures\BasicDataStructures\NetworkPackets\NetworkPackets\NetworkPackets\obj\Debug\NetworkPackets.pdb

@@ -1,0 +1,1 @@
+I:\DataStuctures\Hashing\FindPatternInText\FindPatternInText\FindPatternInText\bin\Debug\FindPatternInText.exe.config

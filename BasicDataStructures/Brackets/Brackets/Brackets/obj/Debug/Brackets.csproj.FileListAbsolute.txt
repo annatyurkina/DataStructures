@@ -1,0 +1,6 @@
+I:\DataStuctures\Brackets\Brackets\Brackets\bin\Debug\Brackets.exe.config
+I:\DataStuctures\Brackets\Brackets\Brackets\bin\Debug\Brackets.exe
+I:\DataStuctures\Brackets\Brackets\Brackets\bin\Debug\Brackets.pdb
+I:\DataStuctures\Brackets\Brackets\Brackets\obj\Debug\Brackets.csprojResolveAssemblyReference.cache
+I:\DataStuctures\Brackets\Brackets\Brackets\obj\Debug\Brackets.exe
+I:\DataStuctures\Brackets\Brackets\Brackets\obj\Debug\Brackets.pdb
